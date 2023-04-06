@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+<!--    <android:state_selected="true"/>-->
+    <item android:drawable="@drawable/arjuna"/>
+    <item android:drawable="@drawable/arogopuro"/>
+    <item android:drawable="@drawable/buthak"/>
+    <item android:drawable="@drawable/raung"/>
+    <item android:drawable="@drawable/sumeru"/>
+    <item android:drawable="@drawable/teknik"/>
+    <item android:drawable="@drawable/penanggungan"/>
+    <!-- item untuk state default -->
+<!--    <item android:drawable="@drawable/placeholder"/>-->
+</selector>
